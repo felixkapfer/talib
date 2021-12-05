@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv-talib
 
 # Spyder project settings
 .spyderproject
